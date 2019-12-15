@@ -1,0 +1,4 @@
+/data/
+/runs/
+*.pth
+.ipynb_checkpoints/
